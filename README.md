@@ -7,6 +7,7 @@ Istio 知识图谱提供以下格式，点击下面的链接可以查看：
 
 - [Markdown](knowledge-map.md)
 - [PNG](png/knowledge-map.png)
+- [PDF](pdf/knowledge-map.pdf)
 
 
 ## 参与贡献
